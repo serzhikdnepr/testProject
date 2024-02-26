@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "356836660046",
+    "firebase_url": "https://uz-218811.firebaseio.com",
+    "project_id": "uz-218811",
+    "storage_bucket": "uz-218811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356836660046:android:c619a1b0165a0c3651041f",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356836660046-7654e8gejevmhi3dahht4u3mpbrurb9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU2QEkBRfWFb9w6FXM_E7wKY7xzzvWgc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356836660046-7654e8gejevmhi3dahht4u3mpbrurb9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356836660046-lfs2pb3uubhae3u0v0fn6v2h10qvcbll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uz.70"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356836660046:android:529230f1df3ae80051041f",
+        "android_client_info": {
+          "package_name": "solutions.isky.coffee_shop.coffee_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356836660046-7654e8gejevmhi3dahht4u3mpbrurb9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU2QEkBRfWFb9w6FXM_E7wKY7xzzvWgc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356836660046-7654e8gejevmhi3dahht4u3mpbrurb9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356836660046-lfs2pb3uubhae3u0v0fn6v2h10qvcbll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uz.70"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356836660046:android:2bc09c312099e950",
+        "android_client_info": {
+          "package_name": "uz.seventy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356836660046-7654e8gejevmhi3dahht4u3mpbrurb9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU2QEkBRfWFb9w6FXM_E7wKY7xzzvWgc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356836660046-7654e8gejevmhi3dahht4u3mpbrurb9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356836660046-lfs2pb3uubhae3u0v0fn6v2h10qvcbll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uz.70"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356836660046:android:f6a1e8a11259724251041f",
+        "android_client_info": {
+          "package_name": "valentina.azk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356836660046-7654e8gejevmhi3dahht4u3mpbrurb9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU2QEkBRfWFb9w6FXM_E7wKY7xzzvWgc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356836660046-7654e8gejevmhi3dahht4u3mpbrurb9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356836660046-lfs2pb3uubhae3u0v0fn6v2h10qvcbll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uz.70"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
